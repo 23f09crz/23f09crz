@@ -8,4 +8,4 @@ I have experience working with:
 
 I really don't think that quoting all the technologies I can use is that relevant, cause programming languages are just tools that exist for an end, so if I face a problem that will be better solved with a language that i haven't worked with, I'll just learn it.
 
-That's enough introductions, for any questions / inquireis feel free to reach me at [pedrocruzbusiness@gmail.com](mailto:pedrocruzbusiness@gmail.com)
+That's enough introductions, for any inquiries feel free to reach me at [pedrocruzbusiness@gmail.com](mailto:pedrocruzbusiness@gmail.com)
